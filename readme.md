@@ -35,7 +35,6 @@ Ve chvíli, kdy budete mít pocit, že jste vše ostestoval, příhlásíte se d
 
 [CustomerTestKey]: <keys/test_rsa_M1MIPS0054.zip>
 [BankTestKey]: <keys/mips_iplatebnibrana.csob.cz.zip>
-[CustomerKey]: <asdf>
 [BankKey]: <keys/mips_platebnibrana.csob.cz.zip>
 [validace-implementace]: img/validace.png "Validace"
 
