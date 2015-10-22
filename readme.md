@@ -4,11 +4,13 @@
 1. Testovací prostředí
     
     [CustomerTestKey] - testovací klíč zákazníka (*.pub)
+    
     [BankTestKey] - testovací klíč banky (*.pub)
 
 2. Produkční prostředí
     
     [CustomerKey] - klíč zákazníka
+    
     [BankKey] - klíč banky
     
 ## PHP knihovna
