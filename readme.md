@@ -1,12 +1,15 @@
 # Implementace platební brány CSOB
 
 ## Klíče
-* Testovací prostředí
-** [CustomerTestKey] - testovací klíč zákazníka (*.pub)
-** [BankTestKey] - testovací klíč banky (*.pub)
-* Produkční prostředí
-** [CustomerKey] - klíč zákazníka
-** [BankKey] - klíč banky
+1. Testovací prostředí
+    
+    [CustomerTestKey] - testovací klíč zákazníka (*.pub)
+    [BankTestKey] - testovací klíč banky (*.pub)
+
+2. Produkční prostředí
+    
+    [CustomerKey] - klíč zákazníka
+    [BankKey] - klíč banky
     
 ## PHP knihovna
 Pro jendoduší volání API existuje PHP klihovna pro práci s CSOB platební bránou
