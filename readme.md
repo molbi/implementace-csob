@@ -2,11 +2,11 @@
 
 ## Klíče
 1) Testovací prostředí
-    - [CustomerTestKey] - testovací klíč zákazníka (*.pub)
-    - [BankTestKey] - testovací klíč banky (*.pub)
+    * [CustomerTestKey] - testovací klíč zákazníka (*.pub)
+    * [BankTestKey] - testovací klíč banky (*.pub)
 2) Produkční prostředí
-    - [CustomerKey] - klíč zákazníka
-    - [BankKey] - klíč banky
+    * [CustomerKey] - klíč zákazníka
+    * [BankKey] - klíč banky
     
 ## PHP knihovna
 Pro jendoduší volání API existuje PHP klihovna pro práci s CSOB platební bránou
@@ -28,9 +28,9 @@ Ve chvíli, kdy budete mít pocit, že jste vše ostestoval, příhlásíte se d
 
 
 
-[CustomerTestKey]: <https://github.com/joemccann/dillinger>
-[BankTestKey]: <https://github.com/joemccann/dillinger>
-[CustomerKey]: <https://github.com/joemccann/dillinger>
-[BankKey]: <https://github.com/joemccann/dillinger.git>
+[CustomerTestKey]: <keys/test_rsa_M1MIPS0054.zip>
+[BankTestKey]: <keys/mips_iplatebnibrana.csob.cz.zip>
+[CustomerKey]: <asdf>
+[BankKey]: <keys/mips_platebnibrana.csob.cz.zip>
 [validace-implementace]: img/validace.png "Validace"
 
