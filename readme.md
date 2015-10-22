@@ -22,7 +22,9 @@ Návod jak implementova a použít knihovnu je velice dobře popsaný již na Gi
 
 ## Ukázka implementace
 
-Zde je ukázka třídy, kterou jsem pouzil ve svem projektu.
+Zde je ukázka třídy, kterou jsem použil ve svém projektu.
+
+Důležitý je konstruktor, kde se inicializuje konfigurace a klient.
 
 ```php
 <?php
